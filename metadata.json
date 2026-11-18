@@ -1,0 +1,6 @@
+{
+  "name": "Seruni Atelier — Natural Lip Care & Personal Color Consultant",
+  "description": "Studio konsultasi warna personal dan formulasi perawatan bibir alami dengan integrasi Google Forms dan Google Slides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
